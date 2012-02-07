@@ -1,0 +1,16 @@
+.DS_Store
+log/**/*
+tmp/**/*
+bin/*
+vendor/gems/*
+!vendor/gems/cache/
+.sass-cache/*
+env.rb
+restart.txt
+development.log
+production.log
+test.log
+.pomo
+tmp/pids
+tmp/capybara
+chromedriver.log
